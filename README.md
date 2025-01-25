@@ -1,1 +1,1 @@
-# Gemma
+# A repository of projects I found interesting to do
